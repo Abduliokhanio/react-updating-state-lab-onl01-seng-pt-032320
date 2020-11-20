@@ -54,14 +54,14 @@ describe('<YouTubeDebugger />', () => {
   //   const wrapper = shallow(<YouTubeDebugger />);
   //   expect(wrapper.state()).to.deep.equal(BASE_STATE);
   // });
-  // 
+  //
   // it('should update the bitrate when the `.bitrate` button is clicked', () => {
   //   const wrapper = shallow(<YouTubeDebugger />);
   //   const expectedState = deepClone(BASE_STATE);
   //   expectedState.settings.bitrate = 12;
-  // 
+  //
   //   wrapper.find('.bitrate').simulate('click');
-  // 
+  //
   //   expect(wrapper.state()).to.deep.equal(expectedState);
   // });
 
